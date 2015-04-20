@@ -1,0 +1,400 @@
+1 Akrasan Squire
+1 Benevolent Bodyguard
+1 Deftblade Elite
+1 Gideon's Lawkeeper
+1 Goldmeadow Harrier
+1 Steppe Lynx
+1 Ainok Bond-Kin
+1 Benalish Cavalry
+1 Blade of the Sixth Pride
+1 Daring Skyjek
+1 Knight of Cliffhaven
+1 Kor Skyfisher
+1 Leonin Skyhunter
+1 Lone Missionary
+1 Soltari Trooper
+1 Stormfront Pegasus
+1 Syndic of Tithes
+1 Veteran Armorer
+1 Youthful Knight
+1 Aven Riftwatcher
+1 Ballynock Cohort
+1 Burrenton Bombardier
+1 Daru Lancer
+1 Dawnglare Invoker
+1 Farrel's Zealot
+1 Heliod's Pilgrim
+1 Kitsune Blademaster
+1 Kor Hookmaster
+1 Master of Diversion
+1 Misthoof Kirin
+1 Sandsteppe Outcast
+1 Shu Cavalry
+1 Soltari Visionary
+1 Troubled Healer
+1 Battle Screech
+1 Cenn's Enlistment
+1 Coalition Honor Guard
+1 Guardian of the Guildpact
+1 Kor Sanctifiers
+1 Seraph of Dawn
+1 Custodi Squire
+1 Supply-Line Cranes
+1 Totem-Guide Hartebeest
+1 Porcelain Legionnaire
+1 Razor Golem
+1 Cloudshift
+1 Mana Tithe
+1 Celestial Flare
+1 Shelter
+1 Kor Chant
+1 Prismatic Strands
+1 Blinding Beam
+1 Sunlance
+1 Hyena Umbra
+1 Bonds of Faith
+1 Journey to Nowhere
+1 Pacifism
+1 Temporal Isolation
+1 Hobble
+1 Oblivion Ring
+1 Recumbent Bliss
+1 Faith's Fetters
+1 Cloudfin Raptor
+1 Wingcrafter
+1 Dreamscape Artist
+1 Errant Ephemeron
+1 Halimar Wavewatch
+1 Looter il-Kor
+1 Merfolk Looter
+1 Ninja of the Deep Hours
+1 Omenspeaker
+1 Thought Courier
+1 Vaporkin
+1 Waterfront Bouncer
+1 Welkin Tern
+1 Aether Adept
+1 Calcite Snapper
+1 Fathom Seer
+1 Man-o'-War
+1 Pestermite
+1 Sea Gate Oracle
+1 Shaper Parasite
+1 Spiketail Drakeling
+1 Stitched Drake
+1 Stormbound Geist
+1 Thalakos Scout
+1 Trained Condor
+1 Write into Being
+1 Archaeomancer
+1 Aven Fleetwing
+1 Crookclaw Transmuter
+1 Elgaud Shieldmate
+1 Illusionary Forces
+1 Mist Raven
+1 Shimmering Glasskite
+1 Mnemonic Wall
+1 Mulldrifter
+1 Ojutai's Summons
+1 Prescient Chimera
+1 Benthic Giant
+1 Spined Thopter
+1 Daze
+1 Confound
+1 Counterspell
+1 Deprive
+1 Mana Leak
+1 Memory Lapse
+1 Miscalculation
+1 Exclude
+1 Ghostly Flicker
+1 Repulse
+1 Ray of Command
+1 Capsize
+1 Condescend
+1 Preordain
+1 Compulsive Research
+1 Deep Analysis
+1 Foresee
+1 Treasure Cruise
+1 Flood
+1 Narcolepsy
+1 Spectral Flight
+1 Slow Motion
+1 Nimbus Naiad
+1 Carnophage
+1 Disowned Ancestor
+1 Pharika's Chosen
+1 Typhoid Rats
+1 Vampire Lacerator
+1 Basilica Screecher
+1 Dauthi Horror
+1 Dauthi Slayer
+1 Fledgling Djinn
+1 Hand of Silumgar
+1 Nezumi Cutthroat
+1 Nightscape Familiar
+1 Sickle Ripper
+1 Undertaker
+1 Vampire Interloper
+1 Wei Ambush Force
+1 Blind Zealot
+1 Chittering Rats
+1 Crypt Rats
+1 Dauthi Marauder
+1 Dead Reveler
+1 Liliana's Specter
+1 Phyrexian Rager
+1 Ravenous Skirge
+1 Skinthinner
+1 Zombie Cutthroat
+1 Faceless Butcher
+1 Gravedigger
+1 Okiba-Gang Shinobi
+1 Perilous Shadow
+1 Vulturous Aven
+1 Gray Merchant of Asphodel
+1 Predatory Nightstalker
+1 Rotfeaster Maggot
+1 Warren Pilferers
+1 Sultai Scavenger
+1 Twisted Abomination
+1 Gurmag Angler
+1 Dross Golem
+1 Pith Driller
+1 Snuff Out
+1 Doom Blade
+1 Grasp of Darkness
+1 Grim Harvest
+1 Last Gasp
+1 Terror
+1 Victim of Night
+1 Eyeblight's Ending
+1 Rend Flesh
+1 Tendrils of Corruption
+1 Death Denied
+1 Unearth
+1 Chainer's Edict
+1 Hymn to Tourach
+1 Ashes to Ashes
+1 Read the Bones
+1 Evincar's Justice
+1 Disturbed Burial
+1 Stab Wound
+1 Mark of the Vampire
+1 Pestilence
+1 Baleful Eidolon
+1 Goblin Patrol
+1 Martyr of Ashes
+1 Aetherflame Wall
+1 Ashmouth Hound
+1 Borderland Marauder
+1 Fireslinger
+1 Generator Servant
+1 Gore-House Chainwalker
+1 Keldon Marauders
+1 Kruin Striker
+1 Mardu Scout
+1 Plated Geopede
+1 Sparksmith
+1 Atarka Efreet
+1 Blood Ogre
+1 Fault Riders
+1 Ghitu Slinger
+1 Hanweir Lancer
+1 Inner-Flame Acolyte
+1 Minotaur Skullcleaver
+1 Ruinous Minotaur
+1 Skirk Marauder
+1 Spikeshot Goblin
+1 Splatter Thug
+1 Wall of Heat
+1 Beetleback Chief
+1 Coal Stoker
+1 Goblin Heelcutter
+1 Gorehorn Minotaurs
+1 Ill-Tempered Cyclops
+1 Rukh Egg
+1 Sprinting Warbrute
+1 Stingscourger
+1 Fire Elemental
+1 Flowstone Crusher
+1 Chartooth Cougar
+1 Immolating Souleater
+1 Slash Panther
+1 Burst Lightning
+1 Lightning Bolt
+1 Incinerate
+1 Lightning Strike
+1 Searing Blaze
+1 Searing Spear
+1 Twin Bolt
+1 Brimstone Volley
+1 Staggershock
+1 Magma Burst
+1 Rock Slide
+1 Chain Lightning
+1 Firebolt
+1 Flame Slash
+1 Reckless Charge
+1 Arc Lightning
+1 Pyrotechnics
+1 Disintegrate
+1 Fireball
+1 Kaervek's Torch
+1 Lava Burst
+1 Rolling Thunder
+1 Fire Whip
+1 Madcap Skills
+1 Arbor Elf
+1 Elvish Mystic
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Wild Nacatl
+1 Ambush Viper
+1 Darkthicket Wolf
+1 Deadly Recluse
+1 Mire Boa
+1 River Boa
+1 Sakura-Tribe Elder
+1 Silhana Ledgewalker
+1 Thornweald Archer
+1 Voyaging Satyr
+1 Wall of Roots
+1 Wild Mongrel
+1 Aura Gnarlid
+1 Colossodon Yearling
+1 Crocanura
+1 Grazing Gladehart
+1 Hungry Spriggan
+1 Nantuko Vigilante
+1 Nessian Courser
+1 Phantom Tiger
+1 Simian Grunts
+1 Trusted Forcemage
+1 Woolly Loxodon
+1 Yavimaya Elder
+1 Blastoderm
+1 Imperiosaur
+1 Penumbra Spider
+1 Primal Huntbeast
+1 Rumbling Baloth
+1 Wickerbough Elder
+1 Wild Leotau
+1 Nessian Asp
+1 Rubbleback Rhino
+1 Sentinel Spider
+1 Sprout Swarm
+1 Stampeding Elk Herd
+1 Hooting Mandrills
+1 Mold Shambler
+1 Vulpine Goliath
+1 Havenwood Wurm
+1 Walker of the Grove
+1 Ranger's Guile
+1 Vines of Vastwood
+1 Krosan Tusker
+1 Epic Confrontation
+1 Savage Punch
+1 Rancor
+1 Utopia Sprawl
+1 Wild Growth
+1 Utopia Vow
+1 Elephant Guide
+1 Feral Invocation
+1 Moldervine Cloak
+1 Overgrowth
+1 Savage Silhouette
+1 Snake Umbra
+1 Trollhide
+1 Leafcrown Dryad
+1 Deft Duelist
+1 Feeling of Dread
+1 Momentary Blink
+1 Curse of Chains
+1 Cavern Harpy
+1 Dimir Signet
+1 Agony Warp
+1 Probe
+1 Rakdos Signet
+1 Terminate
+1 Strangling Soot
+1 Blightning
+1 Kird Ape
+1 Horned Kavu
+1 Branching Bolt
+1 Giantbaiting
+1 Qasali Pridemage
+1 Thrill of the Hunt
+1 Travel Preparations
+1 Armadillo Cloak
+1 Kingpin's Pet
+1 Blind Hunter
+1 Orzhov Signet
+1 Pillory of the Sleepless
+1 Putrid Leech
+1 Sluiceway Scorpion
+1 Golgari Signet
+1 Consume Strength
+1 Shambleshark
+1 Beetleform Mage
+1 Ethereal Ambush
+1 Snakeform
+1 Frostburn Weird
+1 Goblin Electromancer
+1 Izzet Signet
+1 Jilt
+1 Goblin Legionnaire
+1 Wojek Halberdiers
+1 Skyknight Legionnaire
+1 Squee's Embrace
+1 Gathan Raiders
+1 Perilous Myr
+1 Scuttlemutt
+1 Bonesplitter
+1 Sylvok Lifestaff
+1 Viridian Longbow
+1 Kitesail
+1 Mind Stone
+1 Neurok Stealthsuit
+1 Prismatic Lens
+1 Vulshok Morningstar
+1 Strider Harness
+1 Whispersilk Cloak
+1 Opaline Bracers
+1 Serrated Arrows
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Bloodfell Caves
+1 Blossoming Sands
+1 Boros Garrison
+1 Boros Guildgate
+1 Desert
+1 Dimir Aqueduct
+1 Dimir Guildgate
+1 Dismal Backwater
+1 Evolving Wilds
+1 Golgari Guildgate
+1 Golgari Rot Farm
+1 Gruul Guildgate
+1 Gruul Turf
+1 Izzet Boilerworks
+1 Izzet Guildgate
+1 Jungle Hollow
+1 Orzhov Basilica
+1 Orzhov Guildgate
+1 Quicksand
+1 Rakdos Carnarium
+1 Rakdos Guildgate
+1 Rugged Highlands
+1 Scoured Barrens
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Simic Growth Chamber
+1 Simic Guildgate
+1 Swiftwater Cliffs
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Tranquil Cove
+1 Wind-Scarred Crag
+1 Sentinel Dispatch
